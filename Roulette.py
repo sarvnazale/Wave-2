@@ -1,6 +1,6 @@
 from random import randrange
 
-#number 0 to 37 are represented by their own value, 00 is represented by 38
+#number 0 is represented by 0, 1-36 are represented by their own value, 00 is represented by 38
 number = randrange(0, 38)
 
 #list of numbers on red spaces
